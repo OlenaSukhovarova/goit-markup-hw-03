@@ -294,8 +294,8 @@ h2 {
     padding: 20px 24px;
 }
 .portfolio-item {
-    /* width: 370 px; */
-    /* border: 1px solid var(--border-picture-color); */
+    /* width: 368 px; */
+    border: 1px solid var(--border-picture-color);
     /* flex-basis: calc((100% - 20px) / 3); */
 }
 .portfolio-item:nth-child(3n) {
